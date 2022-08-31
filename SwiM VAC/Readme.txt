@@ -19,7 +19,7 @@ Files needed for each galaxy:
  - nsa_name-z.fits
  - NSA_ALL (nsa_v1_0_1.fits)
 
--Source Extractor Parameter files
+-Source Extractor Parameter files (These can be used for all galaxies. Make sure to place them in a folder where the output of Cutout.py is stored)
  -default-r.sex
  -default-wise.sex
  -default.conv
